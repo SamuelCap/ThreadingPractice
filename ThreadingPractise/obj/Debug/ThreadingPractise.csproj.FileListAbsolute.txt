@@ -1,0 +1,7 @@
+C:\Users\Nov_Admin\source\repos\ThreadingPractise\obj\Debug\ThreadingPractise.csprojAssemblyReference.cache
+C:\Users\Nov_Admin\source\repos\ThreadingPractise\obj\Debug\ThreadingPractise.csproj.CoreCompileInputs.cache
+C:\Users\Nov_Admin\source\repos\ThreadingPractise\bin\Debug\ThreadingPractise.exe.config
+C:\Users\Nov_Admin\source\repos\ThreadingPractise\bin\Debug\ThreadingPractise.exe
+C:\Users\Nov_Admin\source\repos\ThreadingPractise\bin\Debug\ThreadingPractise.pdb
+C:\Users\Nov_Admin\source\repos\ThreadingPractise\obj\Debug\ThreadingPractise.exe
+C:\Users\Nov_Admin\source\repos\ThreadingPractise\obj\Debug\ThreadingPractise.pdb
